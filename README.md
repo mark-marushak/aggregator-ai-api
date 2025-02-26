@@ -1,5 +1,3 @@
-# aggregator-ai-api
-
 # AI API Aggregation Platform Roadmap
 
 ## Project Vision
